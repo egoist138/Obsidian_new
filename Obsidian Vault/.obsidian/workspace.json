@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "ca40d1daacc6b516",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd5563f81a2ef246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f82d94107530bc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Строка подключения в AnyCisco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Строка подключения в AnyCisco"
+            }
+          },
+          {
+            "id": "4fd1dad4fa45f189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Строка подключения в AnyCisco INK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Строка подключения в AnyCisco INK"
+            }
+          },
+          {
+            "id": "050b38a8fa0f6a77",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Постгрес/Обновление ПГ 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Обновление ПГ 1"
+            }
+          },
+          {
+            "id": "a49c395195182bc2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Постгрес/Обновление ПГ 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Обновление ПГ 1"
+            }
+          },
+          {
+            "id": "5f07c39078352687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Постгрес/Установка и настройка pg_profile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Установка и настройка pg_profile"
+            }
+          },
+          {
+            "id": "18c527a0ab0e72f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Постгрес/Установка и настройка PgBouncer для PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Установка и настройка PgBouncer для PostgreSQL"
+            }
+          },
+          {
+            "id": "b287f7a44d15373d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Постгрес/Тестирование PgBouncer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тестирование PgBouncer"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "475cad908b162a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "421027bdf311ac72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f326634e314a8cbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fba03bb7c3cb5c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de79ff4b32c9dfe2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c761c276651a2ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c66ebb3823d5e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5361673407faf087",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "23ea36c1b59f2d55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "651470a2c0896af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5291e0008938c47e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f326634e314a8cbc",
+  "lastOpenFiles": [
+    "Постгрес/Установка и настройка PgBouncer для PostgreSQL.md",
+    "Постгрес/Тестирование PgBouncer.md",
+    "Постгрес/Установка и настройка pg_profile.md",
+    "Постгрес",
+    "Строка подключения в AnyCisco INK.md",
+    "Постгрес/Обновление ПГ 1.pdf",
+    "Постгрес/Обновление ПГ.md",
+    "Untitled.md",
+    "Обновление ПГ 2.pdf",
+    "Обновление ПГ.pdf",
+    "git Lab Ink.md",
+    "Welcome.md"
+  ]
+}
