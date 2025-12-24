@@ -1,8 +1,0 @@
-Влад Расула, [01.11.2025 15:19]
-git clone https://git.irkutskoil.ru/ipr/runner_server_config.git
-
-Влад Расула, [01.11.2025 15:19]
-glpat-VaEnsXpnjLAhFcexznoz
-
-Влад Расула, [01.11.2025 15:19]
-mavlsion
